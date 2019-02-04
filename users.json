@@ -1,0 +1,18 @@
+[
+  {
+    "userID": 1,
+    "userName": "Ali",
+    "userLevel": 10,
+    "isOk": true
+  },
+  {
+    "userID": 2,
+    "userName": "Beda",
+    "userLevel": 100
+  },
+  {
+    "userID": 3,
+    "userName": "Ceasar",
+    "userLevel": 12
+  }
+]
